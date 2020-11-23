@@ -1,12 +1,11 @@
 {
   "resources": [
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":3,},
-    {"id":{"name":"spr_star","path":"sprites/spr_star/spr_star.yy",},"order":1,},
+    {"id":{"name":"obj_spaceship","path":"objects/obj_spaceship/obj_spaceship.yy",},"order":4,},
+    {"id":{"name":"spr_spaceship","path":"sprites/spr_spaceship/spr_spaceship.yy",},"order":4,},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":3,},
-    {"id":{"name":"background_stars_night","path":"sprites/background_stars_night/background_stars_night.yy",},"order":2,},
-    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":0,},
-    {"id":{"name":"obj_gen_star","path":"objects/obj_gen_star/obj_gen_star.yy",},"order":1,},
-    {"id":{"name":"obj_star","path":"objects/obj_star/obj_star.yy",},"order":2,},
+    {"id":{"name":"code_spaceship_step","path":"scripts/code_spaceship_step/code_spaceship_step.yy",},"order":0,},
+    {"id":{"name":"spr_background_stars_night","path":"sprites/spr_background_stars_night/spr_background_stars_night.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
