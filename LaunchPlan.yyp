@@ -1,11 +1,24 @@
 {
   "resources": [
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},"order":3,},
+    {"id":{"name":"spr_curve","path":"sprites/spr_curve/spr_curve.yy",},"order":11,},
+    {"id":{"name":"obj_success","path":"objects/obj_success/obj_success.yy",},"order":9,},
     {"id":{"name":"obj_spaceship","path":"objects/obj_spaceship/obj_spaceship.yy",},"order":4,},
-    {"id":{"name":"spr_spaceship","path":"sprites/spr_spaceship/spr_spaceship.yy",},"order":4,},
+    {"id":{"name":"obj_boom","path":"objects/obj_boom/obj_boom.yy",},"order":6,},
+    {"id":{"name":"spr_landing_ground","path":"sprites/spr_landing_ground/spr_landing_ground.yy",},"order":8,},
+    {"id":{"name":"obj_spaceship_head","path":"objects/obj_spaceship_head/obj_spaceship_head.yy",},"order":7,},
+    {"id":{"name":"spr_spaceship_head","path":"sprites/spr_spaceship_head/spr_spaceship_head.yy",},"order":7,},
+    {"id":{"name":"spr_landing_202011291021","path":"sprites/spr_landing_202011291021/spr_landing_202011291021.yy",},"order":10,},
+    {"id":{"name":"spr_spaceship","path":"sprites/spr_spaceship/spr_spaceship.yy",},"order":9,},
+    {"id":{"name":"obj_spaceship_landing","path":"objects/obj_spaceship_landing/obj_spaceship_landing.yy",},"order":10,},
+    {"id":{"name":"spr_boom","path":"sprites/spr_boom/spr_boom.yy",},"order":5,},
+    {"id":{"name":"spr_spaceship_shape","path":"sprites/spr_spaceship_shape/spr_spaceship_shape.yy",},"order":4,},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":3,},
     {"id":{"name":"code_spaceship_step","path":"scripts/code_spaceship_step/code_spaceship_step.yy",},"order":0,},
+    {"id":{"name":"obj_curve","path":"objects/obj_curve/obj_curve.yy",},"order":11,},
+    {"id":{"name":"obj_landing_ground","path":"objects/obj_landing_ground/obj_landing_ground.yy",},"order":8,},
     {"id":{"name":"spr_background_stars_night","path":"sprites/spr_background_stars_night/spr_background_stars_night.yy",},"order":2,},
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -21,8 +34,8 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [
-    {"name":"Room1","path":"rooms/Room1/Room1.yy",},
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -44,13 +57,13 @@
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "2.3.1.536",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "LaunchPlan",
   "tags": [],
   "resourceType": "GMProject",
