@@ -31,6 +31,7 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"parent":{"name":"obj_spaceship","path":"objects/obj_spaceship/obj_spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_landing_ground","path":"objects/obj_landing_ground/obj_landing_ground.yy",},"parent":{"name":"obj_spaceship","path":"objects/obj_spaceship/obj_spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_spaceship","path":"objects/obj_spaceship/obj_spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_gold","path":"objects/obj_gold/obj_gold.yy",},"parent":{"name":"obj_spaceship","path":"objects/obj_spaceship/obj_spaceship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":0,"value":"200","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"engine_force_x","tags":[],"resourceType":"GMObjectProperty",},
